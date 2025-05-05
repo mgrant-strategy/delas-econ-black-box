@@ -11,13 +11,6 @@ Inspired by thinkers like Adam Smith, Martin Kilson, and Daniel Kahneman, this p
 
 ## 🔍 Key Projects
 
-### 🏈 Case Study 001 – Shedeur Sanders & NFL Draft Narrative
-> Analyzes how media, market timing, and asymmetric incentives shaped the public narrative around Shedeur Sanders’ draft stock. Framed through behavioral economics and asset price manipulation analogies.
-
-📎 *Features*: Decision tree model, strategic value framing, comparison to financial markets.
-
----
-
 ### 🏙️ Case Study 002 – Gentrification & Tax Incentives in Urban Redevelopment *(In Progress)*
 > Dissects a tech company’s $500M tax break amid rising housing displacement, using economic revitalization narratives and local labor market data. Inspired by real patterns seen in areas like West Philadelphia and other urban zones.
 
